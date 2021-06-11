@@ -1,5 +1,5 @@
 import React from 'react'
-import StyledButton from "../styles/Button";
+import StyledButton from "../styles/StyledButton";
 import { FaMoon, FaUser, FaArrowRight, FaArrowLeft, FaLock, FaHamburger } from "react-icons/fa";
 
 type IconType = 'user' | 'moon' | 'arrowLeft' | 'arrowRight' | 'lock' | 'hamburger';

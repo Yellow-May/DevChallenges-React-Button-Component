@@ -5,6 +5,7 @@ const Typography = styled.h1({
         lineHeight: '36px',
         fontWeight: 500,
         color: '#4F4F4F',
+        marginBottom: 20,
     })
 
 export default Typography

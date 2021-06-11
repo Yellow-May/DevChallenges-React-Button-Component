@@ -10,7 +10,6 @@ const DefaultButton = styled.button({
     display: "flex",
     alignItems: "center",
     gap: 10,
-    margin: 10
 })
 
 type ButtonProps = {
@@ -58,7 +57,10 @@ const StyledButton = styled(DefaultButton)<ButtonProps>((props) => ({
                             ? '#E0E0E0'
                             : '#AEAEAE',
         
-        color: props.color && props.variant ? '#FFF' : ''
+        color: props.disabled 
+                ? '' 
+                : props.color && props.variant 
+                    ? '#FFF' : ''
     },
 }))
 

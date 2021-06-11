@@ -10,7 +10,7 @@ const theme = {
         primary:"#0039CB",
         secondary: "#1C313A",
         danger: "#9A0007"
-    }
+    },
 } as DefaultTheme
 
 export default theme

@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://admiring-curie-f90e87.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/Yellow-May/DevChallenges-React-Button-Component}">
       Solution
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@
 ### Built With
 
 -  [React](https://reactjs.org/)
--  [Tailwind](https://tailwindcss.com/)
+-  [Styled-Components](https://styled-components.com/)
 
 ## Features
 
@@ -54,7 +54,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/Yellow-May/DevChallenges-React-Button-Component
 
 # Install dependencies
 $ npm install
